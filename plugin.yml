@@ -1,0 +1,5 @@
+name: BanAssist
+main: com.github.karayuumac.BanAssist.BanAssist
+version: 0.0.1
+description: This plugin helps people banning a player.
+softdepend: [AdvancedBan]

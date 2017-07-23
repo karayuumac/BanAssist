@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="AdvancedBan">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../gigantic-前提/PunishmentAssist/AdvancedBan.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../gigantic-前提/PunishmentAssist/authlib-1.5.24.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../gigantic-前提/spigot-1.10.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../gigantic-前提/PunishmentAssist/mysql-connector-java-5.1.42.zip!/mysql-connector-java-5.1.42/src" />
+      <root url="jar://$PROJECT_DIR$/../../gigantic-前提/spigot-1.10.2.jar!/" />
+    </SOURCES>
+  </library>
+</component>
